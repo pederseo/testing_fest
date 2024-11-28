@@ -1,0 +1,4 @@
+pytest
+socket
+threading
+pytest-mock
